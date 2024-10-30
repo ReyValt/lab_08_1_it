@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8616F68B-33EB-4DDF-B672-034DD5BF1D39}|pr_08_1_it\\pr_08_1_it.vcxproj|C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\pr_08_1_it\\pr_08_1_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8616F68B-33EB-4DDF-B672-034DD5BF1D39}|pr_08_1_it\\pr_08_1_it.vcxproj|solutionrelative:pr_08_1_it\\pr_08_1_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554D68FB-2A0F-44CB-A718-326AAE474929}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{554D68FB-2A0F-44CB-A718-326AAE474929}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T17:27:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr_08_1_it.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\pr_08_1_it\\pr_08_1_it.cpp",
+              "RelativeDocumentMoniker": "pr_08_1_it\\pr_08_1_it.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\pr_08_1_it\\pr_08_1_it\\pr_08_1_it.cpp",
+              "RelativeToolTip": "pr_08_1_it\\pr_08_1_it.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T17:00:18.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
